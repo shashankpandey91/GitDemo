@@ -1,0 +1,8 @@
+00:06:15.419 [main] INFO  academy.Base - Driver is initialize
+00:06:43.452 [main] INFO  academy.Base - Navigated to HomePage
+00:16:45.200 [main] INFO  academy.Base - Driver is initialize
+00:17:03.108 [main] INFO  academy.Base - Navigated to HomePage
+00:33:49.017 [TestNG-tests-3] INFO  academy.Base - Driver is initialize
+00:34:04.951 [TestNG-tests-3] INFO  academy.Base - Navigated to HomePage
+00:55:27.653 [TestNG-tests-3] INFO  academy.Base - Driver is initialize
+00:55:42.010 [TestNG-tests-3] INFO  academy.Base - Navigated to HomePage

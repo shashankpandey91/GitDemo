@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 62.99 s <<< FAILURE! - in TestSuite
+academy.ValidateTitle.basePageNavigation  Time elapsed: 16.815 s  <<< FAILURE!
+java.lang.AssertionError: expected [fEATURED COURSES] but found [FEATURED COURSES]
+	at academy.ValidateTitle.basePageNavigation(ValidateTitle.java:30)
+
